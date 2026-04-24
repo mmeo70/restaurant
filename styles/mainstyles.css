@@ -1,0 +1,14 @@
+/* Mr. Meo's Main Restaurant CSS Style Sheet */
+
+body {
+    background-color: #f4f2c9;  
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.footer{
+    align-content: center;
+    color: aqua;
+}
